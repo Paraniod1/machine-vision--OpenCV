@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/longbk.png</file>
+        <file>image/show.jpg</file>
+        <file>image/app.png</file>
+        <file>image/zoom.png</file>
+        <file>image/exit.png</file>
+        <file>image/spin.png</file>
+        <file>image/type_warning.png</file>
+        <file>image/type_success.png</file>
+        <file>image/type_infomation.png</file>
+        <file>image/type_error.png</file>
+        <file>image/small.png</file>
+        <file>image/big.png</file>
+        <file>image/stop.png</file>
+        <file>image/start.png</file>
+        <file>image/save.png</file>
+    </qresource>
+</RCC>
